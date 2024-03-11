@@ -1,0 +1,18 @@
+.sort-header{
+    span {
+        margin-right: 10px;
+    }
+    i{
+        cursor: pointer;
+        padding: 0 2px;
+    }
+}
+
+.customize-table{
+    overflow-x: auto;
+    width: inherit;
+}
+
+.pagination{
+    justify-content: center;
+}
